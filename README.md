@@ -1,2 +1,2 @@
 # caishawn.github.io
-static blog page
+(to be continued)
