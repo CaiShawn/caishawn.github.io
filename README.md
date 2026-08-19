@@ -1,4 +1,4 @@
-# Protfolio
+# Portfolio
 
 ## [Tabulor](github.com/CaiShawn/tabulor)
 
