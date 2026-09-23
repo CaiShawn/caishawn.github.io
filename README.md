@@ -18,7 +18,7 @@
 - Android movie tracker.
 - Powered by TMDb.
 
-### [Joyplayer](https://github.com/CaiShawn/Joyplayer)
+### [CsPlayer](https://github.com/CaiShawn/CsPlayer)
 
 - third-party neteast cloud music player
 - based on [NeteaseCloudMusic_PythonSDK](https://github.com/2061360308/NeteaseCloudMusic_PythonSDK) (pymusiclibrary)
